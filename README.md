@@ -7,6 +7,8 @@ First assignment: CV
 
 Second Assignment: Latex and Presentation
 
+[link to pdf](http://thomasbarks.github.io/two/updated.pdf) 
+
 [link to markdown](http://thomasbarks.github.io/two/NoCss.html)
 
 [link to html](http://thomasbarks.github.io/two/)
