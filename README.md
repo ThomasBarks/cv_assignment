@@ -13,4 +13,6 @@ Second Assignment: Latex and Presentation
 
 [link to html](http://thomasbarks.github.io/two/)
 
-For the presentation, please see email. Apologies for the inconvenience. 
+Third Assignment: Life Expectancy 
+
+[link to assignment](https://github.com/ThomasBarks/Third-assignment/blob/master/Third-assignement-2.ipynb)
