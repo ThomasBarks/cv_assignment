@@ -15,6 +15,6 @@ Second Assignment: Latex and Presentation
 
 Third Assignment: Life Expectancy 
 
-[link to python](https://github.com/ThomasBarks/Third-assignment/blob/master/Third-assignement-2.ipynb)
+[link to ipynb](https://github.com/ThomasBarks/Third-assignment/blob/master/Third-assignement-2.ipynb)
 
 [link to html](http://spgarulo.github.io/Third-assignement/Third-assignement-2.html)
